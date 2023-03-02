@@ -1,0 +1,2 @@
+Epoch,Accuracy,AVG_loss
+1,"tensor(1.0314, device='cuda:0')",
